@@ -30,7 +30,52 @@
         <div id="menu-btn" class="fas fa-bars"></div>
     </section>
 
-    
+
+
+    <!-- footer section start here -->
+    <section class="footer">
+        <div class="container">
+            <div class="box">
+            <h3>Quick Links</h3>
+            <a href="home.php" class="Noidea"><i class="fas fa-angle-right"></i> Home</a>
+            <a href="about.php" class="Noidea"><i class="fas fa-angle-right"></i> About</a>
+            <a href="package.php" class="Noidea"><i class="fas fa-angle-right"></i> Pakage</a>
+            <a href="book.php" class="Noidea"><i class="fas fa-angle-right"></i> Book</a>
+            </div>
+
+            <div class="box">
+            <h3>Extra Links</h3>
+            <a href="#" class="Noidea"><i class="fas fa-angle-right"></i> ask question</a>
+            <a href="#" class="Noidea"><i class="fas fa-angle-right"></i> about us</a>
+            <a href="#" class="Noidea"><i class="fas fa-angle-right"></i> prvicy policy</a>
+            <a href="#" class="Noidea"><i class="fas fa-angle-right"></i> terms and uses</a>
+            </div>
+
+            <div class="box">
+            <h3>contact info</h3>
+            <a href="#" class="Noidea"><i class="fas fa-phone"></i> +1234567890</a>
+            <a href="#" class="Noidea"><i class="fas fa-phone"></i> +9876543210</a>
+            <a href="#" class="Noidea"><i class="fas fa-envelope"></i> +new@gmail.com</a>
+            <a href="#" class="Noidea"><i class="fas fa-map"></i> mumbai, india-431005</a>
+            </div>  
+
+            <div class="box">
+            <h3>fllow us</h3>
+            <a href="#" class="Noidea"><i class="fab fa-facebook-f"></i> facebook</a>
+            <a href="#" class="Noidea"><i class="fab fa-instagram"></i> instagram</a>
+            <a href="#" class="Noidea"><i class="fab fa-twitter"></i> twitter</a>
+            <a href="#" class="Noidea"><i class="fab fa-linkedin"></i> linkedin</a>
+
+            
+            </div>
+
+
+        </div>
+    </section>
+
+
+
+    <!-- footer sectionn ends here -->
 
 
     <!-- header section end -->
